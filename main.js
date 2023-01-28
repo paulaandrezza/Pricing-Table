@@ -13,7 +13,7 @@ function converPlansToLi (plan) {
                 <p>${plan.planType}</p>
                 ${plan.planType === "Básico" ? "<p class='icon-popular'>Popular</p>" : ""}
             </div>
-            <h3 class="plan-value">R$ ${plan.value}<span class="cents">00</span></h3>
+            <h3 class="plan-value">R$ ${plan.value},<span class="cents">00</span></h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             <div class="plan-benefits">
                 ${'<p>Lorem ipsum dolor sit.</p>'.repeat(plan.nBenefits)}
