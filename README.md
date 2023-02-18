@@ -13,7 +13,7 @@ Página com uma tabela com opções de preços/planos de um produto/serviço
 <br>
 
 <p align="center">
-  <img alt="Pricing Table" src="assets/img/projeto.jpeg" width="100%">
+  <img alt="Pricing Table" src="assets/img/dektop.jpeg" width="100%">
 </p>
 
 <br>
