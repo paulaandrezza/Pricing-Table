@@ -115,7 +115,7 @@ section > p {
 }
 
 .plan-benefits p::before {
-    content: url("./assets/check.svg");
+    content: url("./assets/img/check.svg");
     margin-right: 10px;
 }
 
